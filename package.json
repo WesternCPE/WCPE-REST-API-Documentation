@@ -1,6 +1,6 @@
 {
   "name": "WCPERestAPI",
-  "version": "2022.3.14",
+  "version": "2022.3.29",
   "description": "WCPE REST API Documentation",
   "main": "src/index.js",
   "scripts": {
@@ -19,12 +19,5 @@
   "homepage": "https://westerncpe.github.io/WCPE-REST-API-Documentation/",
   "dependencies": {
     "apidoc": "^0.50.4"
-  },
-  "apidoc": {
-    "title": "API Documenation",
-    "name": "WesternCPE",
-    "version": "2022.3.14",
-    "description": "WesternCPE REST API Documentation",
-    "url": "https://dev.westerncpe.com/wp-json/wcpe/"
   }
 }
