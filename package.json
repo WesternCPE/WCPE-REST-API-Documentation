@@ -1,6 +1,6 @@
 {
   "name": "WCPERestAPI",
-  "version": "2022.3.30",
+  "version": "2022.4.11",
   "description": "WCPE REST API Documentation",
   "main": "src/index.js",
   "scripts": {
