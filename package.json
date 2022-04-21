@@ -1,11 +1,11 @@
 {
   "name": "WCPERestAPI",
-  "version": "2022.4.18",
+  "version": "2022.4.21",
   "description": "WCPE REST API Documentation",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "apidoc -i ./../WCPE-API-Plugin -o ."
+    "generate": "apidoc -i ./../WCPE-API-Plugin -o . -e ./../WCPE-API-Plugin/vendor"
   },
   "repository": {
     "type": "git",
